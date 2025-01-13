@@ -2,12 +2,15 @@ import os
 import json
 import random
 
+
 from PIL import Image
 from datetime import datetime
 import numpy as np
 import cv2
 import copy
-from moviepy.editor import ImageSequenceClip, CompositeVideoClip, CompositeAudioClip, AudioFileClip, VideoClip
+#import moviepy
+#from moviepy.editor import ImageSequenceClip, CompositeVideoClip, CompositeAudioClip, AudioFileClip, VideoClip
+from moviepy import ImageSequenceClip, CompositeVideoClip, CompositeAudioClip, AudioFileClip, VideoClip
 
 from .util import read_json
 from .dataloader import get_assets
@@ -39,7 +42,7 @@ class animate:
         self.blink_rate = 3.0
 
         # Create sequence of mouth images
-        self.viseme_sequence = viseme_sequencer(self.audio_file, transcript, self.fps)
+        self.viseme_sequence = viseme_sequencer(self.audio_file, self.fps)
         self.build_mouth_sequence()
 
         self.duration = len(self.sequence.mouth_files) / self.fps

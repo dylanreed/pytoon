@@ -1,5 +1,5 @@
 from pytoon.animator import animate
-from moviepy.editor import ImageClip
+from moviepy import ImageClip
 
 # Constants
 FPS = 48
@@ -14,6 +14,7 @@ OUTPUT_VIDEO_2 = "./output_animation_auto_transcript.mp4"  # Output for Example 
 print("Example 1: Using a provided transcript.")
 
 # Load the transcript
+print("loading trascript")
 with open(TEXT_PATH, "r") as file:
     transcript = file.read()
 
@@ -22,6 +23,7 @@ print("Generating animation with a provided transcript...")
 animation = animate(audio_file=AUDIO_PATH, transcript=transcript)
 
 # Create a background clip
+print("background clip")
 background_clip = ImageClip(BACKGROUND_IMAGE)
 background_clip = background_clip.set_fps(FPS).set_duration(animation.duration)
 
