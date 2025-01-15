@@ -1,0 +1,2990 @@
+[
+    {
+        "phoneme": "b",
+        "viseme": "b",
+        "start_time": 0.0,
+        "end_time": 0.1
+    },
+    {
+        "phoneme": "\u028a",
+        "viseme": "\u028a",
+        "start_time": 0.1,
+        "end_time": 0.2
+    },
+    {
+        "phoneme": "k",
+        "viseme": "k",
+        "start_time": 0.2,
+        "end_time": 0.3
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 0.3,
+        "end_time": 0.4
+    },
+    {
+        "phoneme": "\u03b8",
+        "viseme": "\u03b8",
+        "start_time": 0.4,
+        "end_time": 0.5
+    },
+    {
+        "phoneme": "\u0279",
+        "viseme": "PAUSE",
+        "start_time": 0.5,
+        "end_time": 0.6
+    },
+    {
+        "phoneme": "i",
+        "viseme": "PAUSE",
+        "start_time": 0.6,
+        "end_time": 0.7
+    },
+    {
+        "phoneme": "\u02d0",
+        "viseme": "PAUSE",
+        "start_time": 0.7,
+        "end_time": 0.8
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 0.8,
+        "end_time": 0.9
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 0.9,
+        "end_time": 1.0
+    },
+    {
+        "phoneme": "\u0283",
+        "viseme": "\u0283",
+        "start_time": 1.0,
+        "end_time": 1.1
+    },
+    {
+        "phoneme": "\u00e6",
+        "viseme": "\u00e6",
+        "start_time": 1.1,
+        "end_time": 1.2
+    },
+    {
+        "phoneme": "p",
+        "viseme": "p",
+        "start_time": 1.2,
+        "end_time": 1.3
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 1.3,
+        "end_time": 1.4
+    },
+    {
+        "phoneme": "\u025a",
+        "viseme": "PAUSE",
+        "start_time": 1.4,
+        "end_time": 1.5
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 1.5,
+        "end_time": 1.6
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 1.6,
+        "end_time": 1.7
+    },
+    {
+        "phoneme": "\u025b",
+        "viseme": "\u025b",
+        "start_time": 1.7,
+        "end_time": 1.8
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 1.8,
+        "end_time": 1.9
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 1.9,
+        "end_time": 2.0
+    },
+    {
+        "phoneme": "\u028c",
+        "viseme": "\u028c",
+        "start_time": 2.0,
+        "end_time": 2.1
+    },
+    {
+        "phoneme": "v",
+        "viseme": "v",
+        "start_time": 2.1,
+        "end_time": 2.2
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 2.2,
+        "end_time": 2.3
+    },
+    {
+        "phoneme": "d",
+        "viseme": "d",
+        "start_time": 2.3,
+        "end_time": 2.4
+    },
+    {
+        "phoneme": "u",
+        "viseme": "PAUSE",
+        "start_time": 2.4,
+        "end_time": 2.5
+    },
+    {
+        "phoneme": "\u02d0",
+        "viseme": "PAUSE",
+        "start_time": 2.5,
+        "end_time": 2.6
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 2.6,
+        "end_time": 2.699
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 2.699,
+        "end_time": 2.799
+    },
+    {
+        "phoneme": "b",
+        "viseme": "b",
+        "start_time": 2.799,
+        "end_time": 2.899
+    },
+    {
+        "phoneme": "a",
+        "viseme": "PAUSE",
+        "start_time": 2.899,
+        "end_time": 2.999
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 2.999,
+        "end_time": 3.099
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 3.099,
+        "end_time": 3.199
+    },
+    {
+        "phoneme": "f",
+        "viseme": "f",
+        "start_time": 3.199,
+        "end_time": 3.299
+    },
+    {
+        "phoneme": "\u0279",
+        "viseme": "PAUSE",
+        "start_time": 3.299,
+        "end_time": 3.399
+    },
+    {
+        "phoneme": "\u00e6",
+        "viseme": "\u00e6",
+        "start_time": 3.399,
+        "end_time": 3.499
+    },
+    {
+        "phoneme": "\u014b",
+        "viseme": "\u014b",
+        "start_time": 3.499,
+        "end_time": 3.599
+    },
+    {
+        "phoneme": "k",
+        "viseme": "k",
+        "start_time": 3.599,
+        "end_time": 3.699
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 3.699,
+        "end_time": 3.799
+    },
+    {
+        "phoneme": "h",
+        "viseme": "h",
+        "start_time": 3.799,
+        "end_time": 3.899
+    },
+    {
+        "phoneme": "\u025c",
+        "viseme": "PAUSE",
+        "start_time": 3.899,
+        "end_time": 3.999
+    },
+    {
+        "phoneme": "\u02d0",
+        "viseme": "PAUSE",
+        "start_time": 3.999,
+        "end_time": 4.099
+    },
+    {
+        "phoneme": "b",
+        "viseme": "b",
+        "start_time": 4.099,
+        "end_time": 4.199
+    },
+    {
+        "phoneme": "\u025a",
+        "viseme": "PAUSE",
+        "start_time": 4.199,
+        "end_time": 4.299
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 4.299,
+        "end_time": 4.399
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 4.399,
+        "end_time": 4.499
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 4.499,
+        "end_time": 4.599
+    },
+    {
+        "phoneme": "z",
+        "viseme": "z",
+        "start_time": 4.599,
+        "end_time": 4.699
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 4.699,
+        "end_time": 4.799
+    },
+    {
+        "phoneme": "\u0250",
+        "viseme": "PAUSE",
+        "start_time": 4.799,
+        "end_time": 4.899
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 4.899,
+        "end_time": 4.999
+    },
+    {
+        "phoneme": "p",
+        "viseme": "p",
+        "start_time": 4.999,
+        "end_time": 5.099
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 5.099,
+        "end_time": 5.199
+    },
+    {
+        "phoneme": "v",
+        "viseme": "v",
+        "start_time": 5.199,
+        "end_time": 5.299
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 5.299,
+        "end_time": 5.399
+    },
+    {
+        "phoneme": "\u027e",
+        "viseme": "PAUSE",
+        "start_time": 5.399,
+        "end_time": 5.499
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 5.499,
+        "end_time": 5.599
+    },
+    {
+        "phoneme": "l",
+        "viseme": "l",
+        "start_time": 5.599,
+        "end_time": 5.699
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 5.699,
+        "end_time": 5.799
+    },
+    {
+        "phoneme": "s",
+        "viseme": "s",
+        "start_time": 5.799,
+        "end_time": 5.899
+    },
+    {
+        "phoneme": "\u025b",
+        "viseme": "\u025b",
+        "start_time": 5.899,
+        "end_time": 5.999
+    },
+    {
+        "phoneme": "k",
+        "viseme": "k",
+        "start_time": 5.999,
+        "end_time": 6.099
+    },
+    {
+        "phoneme": "\u0283",
+        "viseme": "\u0283",
+        "start_time": 6.099,
+        "end_time": 6.199
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 6.199,
+        "end_time": 6.299
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 6.299,
+        "end_time": 6.399
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 6.399,
+        "end_time": 6.499
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 6.499,
+        "end_time": 6.599
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 6.599,
+        "end_time": 6.699
+    },
+    {
+        "phoneme": "\u00f0",
+        "viseme": "\u00f0",
+        "start_time": 6.699,
+        "end_time": 6.799
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 6.799,
+        "end_time": 6.899
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 6.899,
+        "end_time": 6.999
+    },
+    {
+        "phoneme": "\u025b",
+        "viseme": "\u025b",
+        "start_time": 6.999,
+        "end_time": 7.099
+    },
+    {
+        "phoneme": "p",
+        "viseme": "p",
+        "start_time": 7.099,
+        "end_time": 7.199
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 7.199,
+        "end_time": 7.299
+    },
+    {
+        "phoneme": "k",
+        "viseme": "k",
+        "start_time": 7.299,
+        "end_time": 7.399
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 7.399,
+        "end_time": 7.499
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 7.499,
+        "end_time": 7.599
+    },
+    {
+        "phoneme": "\u00e6",
+        "viseme": "\u00e6",
+        "start_time": 7.599,
+        "end_time": 7.699
+    },
+    {
+        "phoneme": "\u0279",
+        "viseme": "PAUSE",
+        "start_time": 7.699,
+        "end_time": 7.799
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 7.799,
+        "end_time": 7.899
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 7.899,
+        "end_time": 7.999
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 7.999,
+        "end_time": 8.098
+    },
+    {
+        "phoneme": "v",
+        "viseme": "v",
+        "start_time": 8.098,
+        "end_time": 8.198
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 8.198,
+        "end_time": 8.298
+    },
+    {
+        "phoneme": "k",
+        "viseme": "k",
+        "start_time": 8.298,
+        "end_time": 8.398
+    },
+    {
+        "phoneme": "\u00e6",
+        "viseme": "\u00e6",
+        "start_time": 8.398,
+        "end_time": 8.498
+    },
+    {
+        "phoneme": "p",
+        "viseme": "p",
+        "start_time": 8.498,
+        "end_time": 8.598
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 8.598,
+        "end_time": 8.698
+    },
+    {
+        "phoneme": "\u0283",
+        "viseme": "\u0283",
+        "start_time": 8.698,
+        "end_time": 8.798
+    },
+    {
+        "phoneme": "\u025a",
+        "viseme": "PAUSE",
+        "start_time": 8.798,
+        "end_time": 8.898
+    },
+    {
+        "phoneme": "\u0279",
+        "viseme": "PAUSE",
+        "start_time": 8.898,
+        "end_time": 8.998
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 8.998,
+        "end_time": 9.098
+    },
+    {
+        "phoneme": "\u014b",
+        "viseme": "\u014b",
+        "start_time": 9.098,
+        "end_time": 9.198
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 9.198,
+        "end_time": 9.298
+    },
+    {
+        "phoneme": "\u0250",
+        "viseme": "PAUSE",
+        "start_time": 9.298,
+        "end_time": 9.398
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 9.398,
+        "end_time": 9.498
+    },
+    {
+        "phoneme": "m",
+        "viseme": "m",
+        "start_time": 9.498,
+        "end_time": 9.598
+    },
+    {
+        "phoneme": "o",
+        "viseme": "PAUSE",
+        "start_time": 9.598,
+        "end_time": 9.698
+    },
+    {
+        "phoneme": "\u028a",
+        "viseme": "\u028a",
+        "start_time": 9.698,
+        "end_time": 9.798
+    },
+    {
+        "phoneme": "m",
+        "viseme": "m",
+        "start_time": 9.798,
+        "end_time": 9.898
+    },
+    {
+        "phoneme": "\u025b",
+        "viseme": "\u025b",
+        "start_time": 9.898,
+        "end_time": 9.998
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 9.998,
+        "end_time": 10.098
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 10.098,
+        "end_time": 10.198
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 10.198,
+        "end_time": 10.298
+    },
+    {
+        "phoneme": "s",
+        "viseme": "s",
+        "start_time": 10.298,
+        "end_time": 10.398
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 10.398,
+        "end_time": 10.498
+    },
+    {
+        "phoneme": "k",
+        "viseme": "k",
+        "start_time": 10.498,
+        "end_time": 10.598
+    },
+    {
+        "phoneme": "\u0251",
+        "viseme": "PAUSE",
+        "start_time": 10.598,
+        "end_time": 10.698
+    },
+    {
+        "phoneme": "\u02d0",
+        "viseme": "PAUSE",
+        "start_time": 10.698,
+        "end_time": 10.798
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 10.798,
+        "end_time": 10.898
+    },
+    {
+        "phoneme": "f",
+        "viseme": "f",
+        "start_time": 10.898,
+        "end_time": 10.998
+    },
+    {
+        "phoneme": "\u0279",
+        "viseme": "PAUSE",
+        "start_time": 10.998,
+        "end_time": 11.098
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 11.098,
+        "end_time": 11.198
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 11.198,
+        "end_time": 11.298
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 11.298,
+        "end_time": 11.398
+    },
+    {
+        "phoneme": "e",
+        "viseme": "e",
+        "start_time": 11.398,
+        "end_time": 11.498
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 11.498,
+        "end_time": 11.598
+    },
+    {
+        "phoneme": "\u0283",
+        "viseme": "\u0283",
+        "start_time": 11.598,
+        "end_time": 11.698
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 11.698,
+        "end_time": 11.798
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 11.798,
+        "end_time": 11.898
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 11.898,
+        "end_time": 11.998
+    },
+    {
+        "phoneme": "\u00f0",
+        "viseme": "\u00f0",
+        "start_time": 11.998,
+        "end_time": 12.098
+    },
+    {
+        "phoneme": "\u00e6",
+        "viseme": "\u00e6",
+        "start_time": 12.098,
+        "end_time": 12.198
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 12.198,
+        "end_time": 12.298
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 12.298,
+        "end_time": 12.398
+    },
+    {
+        "phoneme": "\u0283",
+        "viseme": "\u0283",
+        "start_time": 12.398,
+        "end_time": 12.498
+    },
+    {
+        "phoneme": "e",
+        "viseme": "e",
+        "start_time": 12.498,
+        "end_time": 12.598
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 12.598,
+        "end_time": 12.698
+    },
+    {
+        "phoneme": "p",
+        "viseme": "p",
+        "start_time": 12.698,
+        "end_time": 12.798
+    },
+    {
+        "phoneme": "s",
+        "viseme": "s",
+        "start_time": 12.798,
+        "end_time": 12.898
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 12.898,
+        "end_time": 12.998
+    },
+    {
+        "phoneme": "\u00f0",
+        "viseme": "\u00f0",
+        "start_time": 12.998,
+        "end_time": 13.098
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 13.098,
+        "end_time": 13.198
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 13.198,
+        "end_time": 13.298
+    },
+    {
+        "phoneme": "k",
+        "viseme": "k",
+        "start_time": 13.298,
+        "end_time": 13.397
+    },
+    {
+        "phoneme": "l",
+        "viseme": "l",
+        "start_time": 13.397,
+        "end_time": 13.497
+    },
+    {
+        "phoneme": "a",
+        "viseme": "PAUSE",
+        "start_time": 13.497,
+        "end_time": 13.597
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 13.597,
+        "end_time": 13.697
+    },
+    {
+        "phoneme": "m",
+        "viseme": "m",
+        "start_time": 13.697,
+        "end_time": 13.797
+    },
+    {
+        "phoneme": "\u00e6",
+        "viseme": "\u00e6",
+        "start_time": 13.797,
+        "end_time": 13.897
+    },
+    {
+        "phoneme": "k",
+        "viseme": "k",
+        "start_time": 13.897,
+        "end_time": 13.997
+    },
+    {
+        "phoneme": "s",
+        "viseme": "s",
+        "start_time": 13.997,
+        "end_time": 14.097
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 14.097,
+        "end_time": 14.197
+    },
+    {
+        "phoneme": "\u028c",
+        "viseme": "\u028c",
+        "start_time": 14.197,
+        "end_time": 14.297
+    },
+    {
+        "phoneme": "v",
+        "viseme": "v",
+        "start_time": 14.297,
+        "end_time": 14.397
+    },
+    {
+        "phoneme": "\u00f0",
+        "viseme": "\u00f0",
+        "start_time": 14.397,
+        "end_time": 14.497
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 14.497,
+        "end_time": 14.597
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 14.597,
+        "end_time": 14.697
+    },
+    {
+        "phoneme": "s",
+        "viseme": "s",
+        "start_time": 14.697,
+        "end_time": 14.797
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 14.797,
+        "end_time": 14.897
+    },
+    {
+        "phoneme": "o",
+        "viseme": "PAUSE",
+        "start_time": 14.897,
+        "end_time": 14.997
+    },
+    {
+        "phoneme": "\u02d0",
+        "viseme": "PAUSE",
+        "start_time": 14.997,
+        "end_time": 15.097
+    },
+    {
+        "phoneme": "\u0279",
+        "viseme": "PAUSE",
+        "start_time": 15.097,
+        "end_time": 15.197
+    },
+    {
+        "phoneme": "i",
+        "viseme": "PAUSE",
+        "start_time": 15.197,
+        "end_time": 15.297
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 15.297,
+        "end_time": 15.397
+    },
+    {
+        "phoneme": "\u00f0",
+        "viseme": "\u00f0",
+        "start_time": 15.397,
+        "end_time": 15.497
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 15.497,
+        "end_time": 15.597
+    },
+    {
+        "phoneme": "s",
+        "viseme": "s",
+        "start_time": 15.597,
+        "end_time": 15.697
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 15.697,
+        "end_time": 15.797
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 15.797,
+        "end_time": 15.897
+    },
+    {
+        "phoneme": "\u0283",
+        "viseme": "\u0283",
+        "start_time": 15.897,
+        "end_time": 15.997
+    },
+    {
+        "phoneme": "\u00e6",
+        "viseme": "\u00e6",
+        "start_time": 15.997,
+        "end_time": 16.097
+    },
+    {
+        "phoneme": "p",
+        "viseme": "p",
+        "start_time": 16.097,
+        "end_time": 16.197
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 16.197,
+        "end_time": 16.297
+    },
+    {
+        "phoneme": "\u025a",
+        "viseme": "PAUSE",
+        "start_time": 16.297,
+        "end_time": 16.397
+    },
+    {
+        "phoneme": "\u0279",
+        "viseme": "PAUSE",
+        "start_time": 16.397,
+        "end_time": 16.497
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 16.497,
+        "end_time": 16.597
+    },
+    {
+        "phoneme": "\u028c",
+        "viseme": "\u028c",
+        "start_time": 16.597,
+        "end_time": 16.697
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 16.697,
+        "end_time": 16.797
+    },
+    {
+        "phoneme": "f",
+        "viseme": "f",
+        "start_time": 16.797,
+        "end_time": 16.897
+    },
+    {
+        "phoneme": "o",
+        "viseme": "PAUSE",
+        "start_time": 16.897,
+        "end_time": 16.997
+    },
+    {
+        "phoneme": "\u028a",
+        "viseme": "\u028a",
+        "start_time": 16.997,
+        "end_time": 17.097
+    },
+    {
+        "phoneme": "l",
+        "viseme": "l",
+        "start_time": 17.097,
+        "end_time": 17.197
+    },
+    {
+        "phoneme": "d",
+        "viseme": "d",
+        "start_time": 17.197,
+        "end_time": 17.297
+    },
+    {
+        "phoneme": "z",
+        "viseme": "z",
+        "start_time": 17.297,
+        "end_time": 17.397
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 17.397,
+        "end_time": 17.497
+    },
+    {
+        "phoneme": "\u0251",
+        "viseme": "PAUSE",
+        "start_time": 17.497,
+        "end_time": 17.597
+    },
+    {
+        "phoneme": "\u02d0",
+        "viseme": "PAUSE",
+        "start_time": 17.597,
+        "end_time": 17.697
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 17.697,
+        "end_time": 17.797
+    },
+    {
+        "phoneme": "\u00f0",
+        "viseme": "\u00f0",
+        "start_time": 17.797,
+        "end_time": 17.897
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 17.897,
+        "end_time": 17.997
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 17.997,
+        "end_time": 18.097
+    },
+    {
+        "phoneme": "d",
+        "viseme": "d",
+        "start_time": 18.097,
+        "end_time": 18.197
+    },
+    {
+        "phoneme": "\u025b",
+        "viseme": "\u025b",
+        "start_time": 18.197,
+        "end_time": 18.297
+    },
+    {
+        "phoneme": "s",
+        "viseme": "s",
+        "start_time": 18.297,
+        "end_time": 18.397
+    },
+    {
+        "phoneme": "\u025a",
+        "viseme": "PAUSE",
+        "start_time": 18.397,
+        "end_time": 18.497
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 18.497,
+        "end_time": 18.597
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 18.597,
+        "end_time": 18.696
+    },
+    {
+        "phoneme": "p",
+        "viseme": "p",
+        "start_time": 18.696,
+        "end_time": 18.796
+    },
+    {
+        "phoneme": "l",
+        "viseme": "l",
+        "start_time": 18.796,
+        "end_time": 18.896
+    },
+    {
+        "phoneme": "\u00e6",
+        "viseme": "\u00e6",
+        "start_time": 18.896,
+        "end_time": 18.996
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 18.996,
+        "end_time": 19.096
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 19.096,
+        "end_time": 19.196
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 19.196,
+        "end_time": 19.296
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 19.296,
+        "end_time": 19.396
+    },
+    {
+        "phoneme": "\u0250",
+        "viseme": "PAUSE",
+        "start_time": 19.396,
+        "end_time": 19.496
+    },
+    {
+        "phoneme": "\u0279",
+        "viseme": "PAUSE",
+        "start_time": 19.496,
+        "end_time": 19.596
+    },
+    {
+        "phoneme": "\u00e6",
+        "viseme": "\u00e6",
+        "start_time": 19.596,
+        "end_time": 19.696
+    },
+    {
+        "phoneme": "k",
+        "viseme": "k",
+        "start_time": 19.696,
+        "end_time": 19.796
+    },
+    {
+        "phoneme": "i",
+        "viseme": "PAUSE",
+        "start_time": 19.796,
+        "end_time": 19.896
+    },
+    {
+        "phoneme": "z",
+        "viseme": "z",
+        "start_time": 19.896,
+        "end_time": 19.996
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 19.996,
+        "end_time": 20.096
+    },
+    {
+        "phoneme": "w",
+        "viseme": "w",
+        "start_time": 20.096,
+        "end_time": 20.196
+    },
+    {
+        "phoneme": "\u025b",
+        "viseme": "\u025b",
+        "start_time": 20.196,
+        "end_time": 20.296
+    },
+    {
+        "phoneme": "\u0279",
+        "viseme": "PAUSE",
+        "start_time": 20.296,
+        "end_time": 20.396
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 20.396,
+        "end_time": 20.496
+    },
+    {
+        "phoneme": "\u00f0",
+        "viseme": "\u00f0",
+        "start_time": 20.496,
+        "end_time": 20.596
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 20.596,
+        "end_time": 20.696
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 20.696,
+        "end_time": 20.796
+    },
+    {
+        "phoneme": "p",
+        "viseme": "p",
+        "start_time": 20.796,
+        "end_time": 20.896
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 20.896,
+        "end_time": 20.996
+    },
+    {
+        "phoneme": "l",
+        "viseme": "l",
+        "start_time": 20.996,
+        "end_time": 21.096
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 21.096,
+        "end_time": 21.196
+    },
+    {
+        "phoneme": "\u027e",
+        "viseme": "PAUSE",
+        "start_time": 21.196,
+        "end_time": 21.296
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 21.296,
+        "end_time": 21.396
+    },
+    {
+        "phoneme": "k",
+        "viseme": "k",
+        "start_time": 21.396,
+        "end_time": 21.496
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 21.496,
+        "end_time": 21.596
+    },
+    {
+        "phoneme": "l",
+        "viseme": "l",
+        "start_time": 21.596,
+        "end_time": 21.696
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 21.696,
+        "end_time": 21.796
+    },
+    {
+        "phoneme": "\u00e6",
+        "viseme": "\u00e6",
+        "start_time": 21.796,
+        "end_time": 21.896
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 21.896,
+        "end_time": 21.996
+    },
+    {
+        "phoneme": "d",
+        "viseme": "d",
+        "start_time": 21.996,
+        "end_time": 22.096
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 22.096,
+        "end_time": 22.196
+    },
+    {
+        "phoneme": "m",
+        "viseme": "m",
+        "start_time": 22.196,
+        "end_time": 22.296
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 22.296,
+        "end_time": 22.396
+    },
+    {
+        "phoneme": "l",
+        "viseme": "l",
+        "start_time": 22.396,
+        "end_time": 22.496
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 22.496,
+        "end_time": 22.596
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 22.596,
+        "end_time": 22.696
+    },
+    {
+        "phoneme": "\u025b",
+        "viseme": "\u025b",
+        "start_time": 22.696,
+        "end_time": 22.796
+    },
+    {
+        "phoneme": "\u0279",
+        "viseme": "PAUSE",
+        "start_time": 22.796,
+        "end_time": 22.896
+    },
+    {
+        "phoneme": "i",
+        "viseme": "PAUSE",
+        "start_time": 22.896,
+        "end_time": 22.996
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 22.996,
+        "end_time": 23.096
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 23.096,
+        "end_time": 23.196
+    },
+    {
+        "phoneme": "\u025b",
+        "viseme": "\u025b",
+        "start_time": 23.196,
+        "end_time": 23.296
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 23.296,
+        "end_time": 23.396
+    },
+    {
+        "phoneme": "\u0283",
+        "viseme": "\u0283",
+        "start_time": 23.396,
+        "end_time": 23.496
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 23.496,
+        "end_time": 23.596
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 23.596,
+        "end_time": 23.696
+    },
+    {
+        "phoneme": "z",
+        "viseme": "z",
+        "start_time": 23.696,
+        "end_time": 23.796
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 23.796,
+        "end_time": 23.896
+    },
+    {
+        "phoneme": "\u00f0",
+        "viseme": "\u00f0",
+        "start_time": 23.896,
+        "end_time": 23.996
+    },
+    {
+        "phoneme": "\u00e6",
+        "viseme": "\u00e6",
+        "start_time": 23.996,
+        "end_time": 24.095
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 24.095,
+        "end_time": 24.195
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 24.195,
+        "end_time": 24.295
+    },
+    {
+        "phoneme": "h",
+        "viseme": "h",
+        "start_time": 24.295,
+        "end_time": 24.395
+    },
+    {
+        "phoneme": "\u0250",
+        "viseme": "PAUSE",
+        "start_time": 24.395,
+        "end_time": 24.495
+    },
+    {
+        "phoneme": "v",
+        "viseme": "v",
+        "start_time": 24.495,
+        "end_time": 24.595
+    },
+    {
+        "phoneme": "b",
+        "viseme": "b",
+        "start_time": 24.595,
+        "end_time": 24.695
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 24.695,
+        "end_time": 24.795
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 24.795,
+        "end_time": 24.895
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 24.895,
+        "end_time": 24.995
+    },
+    {
+        "phoneme": "b",
+        "viseme": "b",
+        "start_time": 24.995,
+        "end_time": 25.095
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 25.095,
+        "end_time": 25.195
+    },
+    {
+        "phoneme": "l",
+        "viseme": "l",
+        "start_time": 25.195,
+        "end_time": 25.295
+    },
+    {
+        "phoneme": "d",
+        "viseme": "d",
+        "start_time": 25.295,
+        "end_time": 25.395
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 25.395,
+        "end_time": 25.495
+    },
+    {
+        "phoneme": "\u014b",
+        "viseme": "\u014b",
+        "start_time": 25.495,
+        "end_time": 25.595
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 25.595,
+        "end_time": 25.695
+    },
+    {
+        "phoneme": "\u03b8",
+        "viseme": "\u03b8",
+        "start_time": 25.695,
+        "end_time": 25.795
+    },
+    {
+        "phoneme": "\u0279",
+        "viseme": "PAUSE",
+        "start_time": 25.795,
+        "end_time": 25.895
+    },
+    {
+        "phoneme": "u",
+        "viseme": "PAUSE",
+        "start_time": 25.895,
+        "end_time": 25.995
+    },
+    {
+        "phoneme": "\u02d0",
+        "viseme": "PAUSE",
+        "start_time": 25.995,
+        "end_time": 26.095
+    },
+    {
+        "phoneme": "a",
+        "viseme": "PAUSE",
+        "start_time": 26.095,
+        "end_time": 26.195
+    },
+    {
+        "phoneme": "\u028a",
+        "viseme": "\u028a",
+        "start_time": 26.195,
+        "end_time": 26.295
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 26.295,
+        "end_time": 26.395
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 26.395,
+        "end_time": 26.495
+    },
+    {
+        "phoneme": "\u00f0",
+        "viseme": "\u00f0",
+        "start_time": 26.495,
+        "end_time": 26.595
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 26.595,
+        "end_time": 26.695
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 26.695,
+        "end_time": 26.795
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 26.795,
+        "end_time": 26.895
+    },
+    {
+        "phoneme": "\u0251",
+        "viseme": "PAUSE",
+        "start_time": 26.895,
+        "end_time": 26.995
+    },
+    {
+        "phoneme": "\u02d0",
+        "viseme": "PAUSE",
+        "start_time": 26.995,
+        "end_time": 27.095
+    },
+    {
+        "phoneme": "v",
+        "viseme": "v",
+        "start_time": 27.095,
+        "end_time": 27.195
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 27.195,
+        "end_time": 27.295
+    },
+    {
+        "phoneme": "l",
+        "viseme": "l",
+        "start_time": 27.295,
+        "end_time": 27.395
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 27.395,
+        "end_time": 27.495
+    },
+    {
+        "phoneme": "k",
+        "viseme": "k",
+        "start_time": 27.495,
+        "end_time": 27.595
+    },
+    {
+        "phoneme": "\u028c",
+        "viseme": "\u028c",
+        "start_time": 27.595,
+        "end_time": 27.695
+    },
+    {
+        "phoneme": "m",
+        "viseme": "m",
+        "start_time": 27.695,
+        "end_time": 27.795
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 27.795,
+        "end_time": 27.895
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 27.895,
+        "end_time": 27.995
+    },
+    {
+        "phoneme": "\u028a",
+        "viseme": "\u028a",
+        "start_time": 27.995,
+        "end_time": 28.095
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 28.095,
+        "end_time": 28.195
+    },
+    {
+        "phoneme": "\u0250",
+        "viseme": "PAUSE",
+        "start_time": 28.195,
+        "end_time": 28.295
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 28.295,
+        "end_time": 28.395
+    },
+    {
+        "phoneme": "h",
+        "viseme": "h",
+        "start_time": 28.395,
+        "end_time": 28.495
+    },
+    {
+        "phoneme": "\u025b",
+        "viseme": "\u025b",
+        "start_time": 28.495,
+        "end_time": 28.595
+    },
+    {
+        "phoneme": "d",
+        "viseme": "d",
+        "start_time": 28.595,
+        "end_time": 28.695
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 28.695,
+        "end_time": 28.795
+    },
+    {
+        "phoneme": "\u00f0",
+        "viseme": "\u00f0",
+        "start_time": 28.795,
+        "end_time": 28.895
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 28.895,
+        "end_time": 28.995
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 28.995,
+        "end_time": 29.095
+    },
+    {
+        "phoneme": "s",
+        "viseme": "s",
+        "start_time": 29.095,
+        "end_time": 29.195
+    },
+    {
+        "phoneme": "\u025b",
+        "viseme": "\u025b",
+        "start_time": 29.195,
+        "end_time": 29.295
+    },
+    {
+        "phoneme": "\u027e",
+        "viseme": "PAUSE",
+        "start_time": 29.295,
+        "end_time": 29.394
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 29.394,
+        "end_time": 29.494
+    },
+    {
+        "phoneme": "\u014b",
+        "viseme": "\u014b",
+        "start_time": 29.494,
+        "end_time": 29.594
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 29.594,
+        "end_time": 29.694
+    },
+    {
+        "phoneme": "\u028c",
+        "viseme": "\u028c",
+        "start_time": 29.694,
+        "end_time": 29.794
+    },
+    {
+        "phoneme": "v",
+        "viseme": "v",
+        "start_time": 29.794,
+        "end_time": 29.894
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 29.894,
+        "end_time": 29.994
+    },
+    {
+        "phoneme": "\u00f0",
+        "viseme": "\u00f0",
+        "start_time": 29.994,
+        "end_time": 30.094
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 30.094,
+        "end_time": 30.194
+    },
+    {
+        "phoneme": "s",
+        "viseme": "s",
+        "start_time": 30.194,
+        "end_time": 30.294
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 30.294,
+        "end_time": 30.394
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 30.394,
+        "end_time": 30.494
+    },
+    {
+        "phoneme": "\u0283",
+        "viseme": "\u0283",
+        "start_time": 30.494,
+        "end_time": 30.594
+    },
+    {
+        "phoneme": "\u00e6",
+        "viseme": "\u00e6",
+        "start_time": 30.594,
+        "end_time": 30.694
+    },
+    {
+        "phoneme": "p",
+        "viseme": "p",
+        "start_time": 30.694,
+        "end_time": 30.794
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 30.794,
+        "end_time": 30.894
+    },
+    {
+        "phoneme": "\u025a",
+        "viseme": "PAUSE",
+        "start_time": 30.894,
+        "end_time": 30.994
+    },
+    {
+        "phoneme": "\u0279",
+        "viseme": "PAUSE",
+        "start_time": 30.994,
+        "end_time": 31.094
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 31.094,
+        "end_time": 31.194
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 31.194,
+        "end_time": 31.294
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 31.294,
+        "end_time": 31.394
+    },
+    {
+        "phoneme": "s",
+        "viseme": "s",
+        "start_time": 31.394,
+        "end_time": 31.494
+    },
+    {
+        "phoneme": "a",
+        "viseme": "PAUSE",
+        "start_time": 31.494,
+        "end_time": 31.594
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 31.594,
+        "end_time": 31.694
+    },
+    {
+        "phoneme": "d",
+        "viseme": "d",
+        "start_time": 31.694,
+        "end_time": 31.794
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 31.794,
+        "end_time": 31.894
+    },
+    {
+        "phoneme": "\u00f0",
+        "viseme": "\u00f0",
+        "start_time": 31.894,
+        "end_time": 31.994
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 31.994,
+        "end_time": 32.094
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 32.094,
+        "end_time": 32.194
+    },
+    {
+        "phoneme": "\u025b",
+        "viseme": "\u025b",
+        "start_time": 32.194,
+        "end_time": 32.294
+    },
+    {
+        "phoneme": "m",
+        "viseme": "m",
+        "start_time": 32.294,
+        "end_time": 32.394
+    },
+    {
+        "phoneme": "p",
+        "viseme": "p",
+        "start_time": 32.394,
+        "end_time": 32.494
+    },
+    {
+        "phoneme": "\u025a",
+        "viseme": "PAUSE",
+        "start_time": 32.494,
+        "end_time": 32.594
+    },
+    {
+        "phoneme": "\u0279",
+        "viseme": "PAUSE",
+        "start_time": 32.594,
+        "end_time": 32.694
+    },
+    {
+        "phoneme": "\u025a",
+        "viseme": "PAUSE",
+        "start_time": 32.694,
+        "end_time": 32.794
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 32.794,
+        "end_time": 32.894
+    },
+    {
+        "phoneme": "\u0283",
+        "viseme": "\u0283",
+        "start_time": 32.894,
+        "end_time": 32.994
+    },
+    {
+        "phoneme": "\u00e6",
+        "viseme": "\u00e6",
+        "start_time": 32.994,
+        "end_time": 33.094
+    },
+    {
+        "phoneme": "d",
+        "viseme": "d",
+        "start_time": 33.094,
+        "end_time": 33.194
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 33.194,
+        "end_time": 33.294
+    },
+    {
+        "phoneme": "m",
+        "viseme": "m",
+        "start_time": 33.294,
+        "end_time": 33.394
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 33.394,
+        "end_time": 33.494
+    },
+    {
+        "phoneme": "k",
+        "viseme": "k",
+        "start_time": 33.494,
+        "end_time": 33.594
+    },
+    {
+        "phoneme": "\u0254",
+        "viseme": "PAUSE",
+        "start_time": 33.594,
+        "end_time": 33.694
+    },
+    {
+        "phoneme": "\u02d0",
+        "viseme": "PAUSE",
+        "start_time": 33.694,
+        "end_time": 33.794
+    },
+    {
+        "phoneme": "\u0279",
+        "viseme": "PAUSE",
+        "start_time": 33.794,
+        "end_time": 33.894
+    },
+    {
+        "phoneme": "i",
+        "viseme": "PAUSE",
+        "start_time": 33.894,
+        "end_time": 33.994
+    },
+    {
+        "phoneme": "\u02d0",
+        "viseme": "PAUSE",
+        "start_time": 33.994,
+        "end_time": 34.094
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 34.094,
+        "end_time": 34.194
+    },
+    {
+        "phoneme": "o",
+        "viseme": "PAUSE",
+        "start_time": 34.194,
+        "end_time": 34.294
+    },
+    {
+        "phoneme": "\u028a",
+        "viseme": "\u028a",
+        "start_time": 34.294,
+        "end_time": 34.394
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 34.394,
+        "end_time": 34.494
+    },
+    {
+        "phoneme": "f",
+        "viseme": "f",
+        "start_time": 34.494,
+        "end_time": 34.594
+    },
+    {
+        "phoneme": "o",
+        "viseme": "PAUSE",
+        "start_time": 34.594,
+        "end_time": 34.693
+    },
+    {
+        "phoneme": "\u02d0",
+        "viseme": "PAUSE",
+        "start_time": 34.693,
+        "end_time": 34.793
+    },
+    {
+        "phoneme": "\u0279",
+        "viseme": "PAUSE",
+        "start_time": 34.793,
+        "end_time": 34.893
+    },
+    {
+        "phoneme": "z",
+        "viseme": "z",
+        "start_time": 34.893,
+        "end_time": 34.993
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 34.993,
+        "end_time": 35.093
+    },
+    {
+        "phoneme": "\u0283",
+        "viseme": "\u0283",
+        "start_time": 35.093,
+        "end_time": 35.193
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 35.193,
+        "end_time": 35.293
+    },
+    {
+        "phoneme": "p",
+        "viseme": "p",
+        "start_time": 35.293,
+        "end_time": 35.393
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 35.393,
+        "end_time": 35.493
+    },
+    {
+        "phoneme": "s",
+        "viseme": "s",
+        "start_time": 35.493,
+        "end_time": 35.593
+    },
+    {
+        "phoneme": "\u025c",
+        "viseme": "PAUSE",
+        "start_time": 35.593,
+        "end_time": 35.693
+    },
+    {
+        "phoneme": "\u02d0",
+        "viseme": "PAUSE",
+        "start_time": 35.693,
+        "end_time": 35.793
+    },
+    {
+        "phoneme": "v",
+        "viseme": "v",
+        "start_time": 35.793,
+        "end_time": 35.893
+    },
+    {
+        "phoneme": "z",
+        "viseme": "z",
+        "start_time": 35.893,
+        "end_time": 35.993
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 35.993,
+        "end_time": 36.093
+    },
+    {
+        "phoneme": "\u00e6",
+        "viseme": "\u00e6",
+        "start_time": 36.093,
+        "end_time": 36.193
+    },
+    {
+        "phoneme": "z",
+        "viseme": "z",
+        "start_time": 36.193,
+        "end_time": 36.293
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 36.293,
+        "end_time": 36.393
+    },
+    {
+        "phoneme": "\u0250",
+        "viseme": "PAUSE",
+        "start_time": 36.393,
+        "end_time": 36.493
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 36.493,
+        "end_time": 36.593
+    },
+    {
+        "phoneme": "s",
+        "viseme": "s",
+        "start_time": 36.593,
+        "end_time": 36.693
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 36.693,
+        "end_time": 36.793
+    },
+    {
+        "phoneme": "\u0251",
+        "viseme": "PAUSE",
+        "start_time": 36.793,
+        "end_time": 36.893
+    },
+    {
+        "phoneme": "\u02d0",
+        "viseme": "PAUSE",
+        "start_time": 36.893,
+        "end_time": 36.993
+    },
+    {
+        "phoneme": "\u0279",
+        "viseme": "PAUSE",
+        "start_time": 36.993,
+        "end_time": 37.093
+    },
+    {
+        "phoneme": "k",
+        "viseme": "k",
+        "start_time": 37.093,
+        "end_time": 37.193
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 37.193,
+        "end_time": 37.293
+    },
+    {
+        "phoneme": "k",
+        "viseme": "k",
+        "start_time": 37.293,
+        "end_time": 37.393
+    },
+    {
+        "phoneme": "\u0251",
+        "viseme": "PAUSE",
+        "start_time": 37.393,
+        "end_time": 37.493
+    },
+    {
+        "phoneme": "\u02d0",
+        "viseme": "PAUSE",
+        "start_time": 37.493,
+        "end_time": 37.593
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 37.593,
+        "end_time": 37.693
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 37.693,
+        "end_time": 37.793
+    },
+    {
+        "phoneme": "\u0279",
+        "viseme": "PAUSE",
+        "start_time": 37.793,
+        "end_time": 37.893
+    },
+    {
+        "phoneme": "\u00e6",
+        "viseme": "\u00e6",
+        "start_time": 37.893,
+        "end_time": 37.993
+    },
+    {
+        "phoneme": "s",
+        "viseme": "s",
+        "start_time": 37.993,
+        "end_time": 38.093
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 38.093,
+        "end_time": 38.193
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 38.193,
+        "end_time": 38.293
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 38.293,
+        "end_time": 38.393
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 38.393,
+        "end_time": 38.493
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 38.493,
+        "end_time": 38.593
+    },
+    {
+        "phoneme": "\u00f0",
+        "viseme": "\u00f0",
+        "start_time": 38.593,
+        "end_time": 38.693
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 38.693,
+        "end_time": 38.793
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 38.793,
+        "end_time": 38.893
+    },
+    {
+        "phoneme": "v",
+        "viseme": "v",
+        "start_time": 38.893,
+        "end_time": 38.993
+    },
+    {
+        "phoneme": "\u00e6",
+        "viseme": "\u00e6",
+        "start_time": 38.993,
+        "end_time": 39.093
+    },
+    {
+        "phoneme": "s",
+        "viseme": "s",
+        "start_time": 39.093,
+        "end_time": 39.193
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 39.193,
+        "end_time": 39.293
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 39.293,
+        "end_time": 39.393
+    },
+    {
+        "phoneme": "o",
+        "viseme": "PAUSE",
+        "start_time": 39.393,
+        "end_time": 39.493
+    },
+    {
+        "phoneme": "\u028a",
+        "viseme": "\u028a",
+        "start_time": 39.493,
+        "end_time": 39.593
+    },
+    {
+        "phoneme": "p",
+        "viseme": "p",
+        "start_time": 39.593,
+        "end_time": 39.693
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 39.693,
+        "end_time": 39.793
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 39.793,
+        "end_time": 39.893
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 39.893,
+        "end_time": 39.993
+    },
+    {
+        "phoneme": "d",
+        "viseme": "d",
+        "start_time": 39.993,
+        "end_time": 40.092
+    },
+    {
+        "phoneme": "\u025b",
+        "viseme": "\u025b",
+        "start_time": 40.092,
+        "end_time": 40.192
+    },
+    {
+        "phoneme": "s",
+        "viseme": "s",
+        "start_time": 40.192,
+        "end_time": 40.292
+    },
+    {
+        "phoneme": "\u025a",
+        "viseme": "PAUSE",
+        "start_time": 40.292,
+        "end_time": 40.392
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 40.392,
+        "end_time": 40.492
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 40.492,
+        "end_time": 40.592
+    },
+    {
+        "phoneme": "\u028c",
+        "viseme": "\u028c",
+        "start_time": 40.592,
+        "end_time": 40.692
+    },
+    {
+        "phoneme": "v",
+        "viseme": "v",
+        "start_time": 40.692,
+        "end_time": 40.792
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 40.792,
+        "end_time": 40.892
+    },
+    {
+        "phoneme": "\u0250",
+        "viseme": "PAUSE",
+        "start_time": 40.892,
+        "end_time": 40.992
+    },
+    {
+        "phoneme": "\u0279",
+        "viseme": "PAUSE",
+        "start_time": 40.992,
+        "end_time": 41.092
+    },
+    {
+        "phoneme": "\u00e6",
+        "viseme": "\u00e6",
+        "start_time": 41.092,
+        "end_time": 41.192
+    },
+    {
+        "phoneme": "k",
+        "viseme": "k",
+        "start_time": 41.192,
+        "end_time": 41.292
+    },
+    {
+        "phoneme": "i",
+        "viseme": "PAUSE",
+        "start_time": 41.292,
+        "end_time": 41.392
+    },
+    {
+        "phoneme": "z",
+        "viseme": "z",
+        "start_time": 41.392,
+        "end_time": 41.492
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 41.492,
+        "end_time": 41.592
+    },
+    {
+        "phoneme": "\u00e6",
+        "viseme": "\u00e6",
+        "start_time": 41.592,
+        "end_time": 41.692
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 41.692,
+        "end_time": 41.792
+    },
+    {
+        "phoneme": "d",
+        "viseme": "d",
+        "start_time": 41.792,
+        "end_time": 41.892
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 41.892,
+        "end_time": 41.992
+    },
+    {
+        "phoneme": "s",
+        "viseme": "s",
+        "start_time": 41.992,
+        "end_time": 42.092
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 42.092,
+        "end_time": 42.192
+    },
+    {
+        "phoneme": "m",
+        "viseme": "m",
+        "start_time": 42.192,
+        "end_time": 42.292
+    },
+    {
+        "phoneme": "b",
+        "viseme": "b",
+        "start_time": 42.292,
+        "end_time": 42.392
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 42.392,
+        "end_time": 42.492
+    },
+    {
+        "phoneme": "l",
+        "viseme": "l",
+        "start_time": 42.492,
+        "end_time": 42.592
+    },
+    {
+        "phoneme": "a",
+        "viseme": "PAUSE",
+        "start_time": 42.592,
+        "end_time": 42.692
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 42.692,
+        "end_time": 42.792
+    },
+    {
+        "phoneme": "z",
+        "viseme": "z",
+        "start_time": 42.792,
+        "end_time": 42.892
+    },
+    {
+        "phoneme": "\u1d7b",
+        "viseme": "PAUSE",
+        "start_time": 42.892,
+        "end_time": 42.992
+    },
+    {
+        "phoneme": "z",
+        "viseme": "z",
+        "start_time": 42.992,
+        "end_time": 43.092
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 43.092,
+        "end_time": 43.192
+    },
+    {
+        "phoneme": "\u00f0",
+        "viseme": "\u00f0",
+        "start_time": 43.192,
+        "end_time": 43.292
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 43.292,
+        "end_time": 43.392
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 43.392,
+        "end_time": 43.492
+    },
+    {
+        "phoneme": "k",
+        "viseme": "k",
+        "start_time": 43.492,
+        "end_time": 43.592
+    },
+    {
+        "phoneme": "\u0251",
+        "viseme": "PAUSE",
+        "start_time": 43.592,
+        "end_time": 43.692
+    },
+    {
+        "phoneme": "\u02d0",
+        "viseme": "PAUSE",
+        "start_time": 43.692,
+        "end_time": 43.792
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 43.792,
+        "end_time": 43.892
+    },
+    {
+        "phoneme": "s",
+        "viseme": "s",
+        "start_time": 43.892,
+        "end_time": 43.992
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 43.992,
+        "end_time": 44.092
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 44.092,
+        "end_time": 44.192
+    },
+    {
+        "phoneme": "t",
+        "viseme": "t",
+        "start_time": 44.192,
+        "end_time": 44.292
+    },
+    {
+        "phoneme": "\u0279",
+        "viseme": "PAUSE",
+        "start_time": 44.292,
+        "end_time": 44.392
+    },
+    {
+        "phoneme": "e",
+        "viseme": "e",
+        "start_time": 44.392,
+        "end_time": 44.492
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 44.492,
+        "end_time": 44.592
+    },
+    {
+        "phoneme": "\u027e",
+        "viseme": "PAUSE",
+        "start_time": 44.592,
+        "end_time": 44.692
+    },
+    {
+        "phoneme": "\u1d7b",
+        "viseme": "PAUSE",
+        "start_time": 44.692,
+        "end_time": 44.792
+    },
+    {
+        "phoneme": "d",
+        "viseme": "d",
+        "start_time": 44.792,
+        "end_time": 44.892
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 44.892,
+        "end_time": 44.992
+    },
+    {
+        "phoneme": "p",
+        "viseme": "p",
+        "start_time": 44.992,
+        "end_time": 45.092
+    },
+    {
+        "phoneme": "a",
+        "viseme": "PAUSE",
+        "start_time": 45.092,
+        "end_time": 45.192
+    },
+    {
+        "phoneme": "\u028a",
+        "viseme": "\u028a",
+        "start_time": 45.192,
+        "end_time": 45.292
+    },
+    {
+        "phoneme": "\u025a",
+        "viseme": "PAUSE",
+        "start_time": 45.292,
+        "end_time": 45.391
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 45.391,
+        "end_time": 45.491
+    },
+    {
+        "phoneme": "\u00e6",
+        "viseme": "\u00e6",
+        "start_time": 45.491,
+        "end_time": 45.591
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 45.591,
+        "end_time": 45.691
+    },
+    {
+        "phoneme": "d",
+        "viseme": "d",
+        "start_time": 45.691,
+        "end_time": 45.791
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 45.791,
+        "end_time": 45.891
+    },
+    {
+        "phoneme": "s",
+        "viseme": "s",
+        "start_time": 45.891,
+        "end_time": 45.991
+    },
+    {
+        "phoneme": "k",
+        "viseme": "k",
+        "start_time": 45.991,
+        "end_time": 46.091
+    },
+    {
+        "phoneme": "i",
+        "viseme": "PAUSE",
+        "start_time": 46.091,
+        "end_time": 46.191
+    },
+    {
+        "phoneme": "\u02d0",
+        "viseme": "PAUSE",
+        "start_time": 46.191,
+        "end_time": 46.291
+    },
+    {
+        "phoneme": "m",
+        "viseme": "m",
+        "start_time": 46.291,
+        "end_time": 46.391
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 46.391,
+        "end_time": 46.491
+    },
+    {
+        "phoneme": "\u014b",
+        "viseme": "\u014b",
+        "start_time": 46.491,
+        "end_time": 46.591
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 46.591,
+        "end_time": 46.691
+    },
+    {
+        "phoneme": "\u028c",
+        "viseme": "\u028c",
+        "start_time": 46.691,
+        "end_time": 46.791
+    },
+    {
+        "phoneme": "v",
+        "viseme": "v",
+        "start_time": 46.791,
+        "end_time": 46.891
+    },
+    {
+        "phoneme": "\u00f0",
+        "viseme": "\u00f0",
+        "start_time": 46.891,
+        "end_time": 46.991
+    },
+    {
+        "phoneme": "\u0259",
+        "viseme": "\u0259",
+        "start_time": 46.991,
+        "end_time": 47.091
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 47.091,
+        "end_time": 47.191
+    },
+    {
+        "phoneme": "j",
+        "viseme": "j",
+        "start_time": 47.191,
+        "end_time": 47.291
+    },
+    {
+        "phoneme": "u",
+        "viseme": "PAUSE",
+        "start_time": 47.291,
+        "end_time": 47.391
+    },
+    {
+        "phoneme": "\u02d0",
+        "viseme": "PAUSE",
+        "start_time": 47.391,
+        "end_time": 47.491
+    },
+    {
+        "phoneme": "n",
+        "viseme": "n",
+        "start_time": 47.491,
+        "end_time": 47.591
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 47.591,
+        "end_time": 47.691
+    },
+    {
+        "phoneme": "v",
+        "viseme": "v",
+        "start_time": 47.691,
+        "end_time": 47.791
+    },
+    {
+        "phoneme": "\u025c",
+        "viseme": "PAUSE",
+        "start_time": 47.791,
+        "end_time": 47.891
+    },
+    {
+        "phoneme": "\u02d0",
+        "viseme": "PAUSE",
+        "start_time": 47.891,
+        "end_time": 47.991
+    },
+    {
+        "phoneme": "s",
+        "viseme": "s",
+        "start_time": 47.991,
+        "end_time": 48.091
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 48.091,
+        "end_time": 48.191
+    },
+    {
+        "phoneme": "z",
+        "viseme": "z",
+        "start_time": 48.191,
+        "end_time": 48.291
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 48.291,
+        "end_time": 48.391
+    },
+    {
+        "phoneme": "\u0279",
+        "viseme": "PAUSE",
+        "start_time": 48.391,
+        "end_time": 48.491
+    },
+    {
+        "phoneme": "u",
+        "viseme": "PAUSE",
+        "start_time": 48.491,
+        "end_time": 48.591
+    },
+    {
+        "phoneme": "\u02d0",
+        "viseme": "PAUSE",
+        "start_time": 48.591,
+        "end_time": 48.691
+    },
+    {
+        "phoneme": "l",
+        "viseme": "l",
+        "start_time": 48.691,
+        "end_time": 48.791
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 48.791,
+        "end_time": 48.891
+    },
+    {
+        "phoneme": "\u014b",
+        "viseme": "\u014b",
+        "start_time": 48.891,
+        "end_time": 48.991
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 48.991,
+        "end_time": 49.091
+    },
+    {
+        "phoneme": "f",
+        "viseme": "f",
+        "start_time": 49.091,
+        "end_time": 49.191
+    },
+    {
+        "phoneme": "\u026a",
+        "viseme": "\u026a",
+        "start_time": 49.191,
+        "end_time": 49.291
+    },
+    {
+        "phoneme": "\u0261",
+        "viseme": "PAUSE",
+        "start_time": 49.291,
+        "end_time": 49.391
+    },
+    {
+        "phoneme": "j",
+        "viseme": "j",
+        "start_time": 49.391,
+        "end_time": 49.491
+    },
+    {
+        "phoneme": "\u025a",
+        "viseme": "PAUSE",
+        "start_time": 49.491,
+        "end_time": 49.591
+    },
+    {
+        "phoneme": "z",
+        "viseme": "z",
+        "start_time": 49.591,
+        "end_time": 49.691
+    },
+    {
+        "phoneme": " ",
+        "viseme": "PAUSE",
+        "start_time": 49.691,
+        "end_time": 49.791
+    }
+]
